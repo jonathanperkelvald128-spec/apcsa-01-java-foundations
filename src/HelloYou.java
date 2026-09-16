@@ -10,8 +10,12 @@
  */
 public class HelloYou {
     public static void main(String[] args) {
-
-        // Your code here
-
+        System.out.println("Jonathan Perkelvald");
+        System.out.println("11th grade");
+        System.out.println("Im him and getting a 5");
+    
     }
+    
+
+    
 }
