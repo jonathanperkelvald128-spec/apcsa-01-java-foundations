@@ -21,7 +21,13 @@
 public class Receipt {
     public static void main(String[] args) {
 
-        // Your code here
+        
+        System.out.println("==========================");
+        System.out.println("Item\t\tQTY\tPrice");
+        System.out.println("==========================");
+        System.out.println("Notebook\t2\t$4.50\npens\t\t\t1\t$2.25\nBackpack\t1\t$24.99");
+        System.out.println("==========================");
+        System.out.println("TOTAL\t\t\t$31.74");
 
     }
 }
