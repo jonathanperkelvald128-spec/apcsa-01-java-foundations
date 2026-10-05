@@ -1,27 +1,20 @@
-/**
- * Exercise 9 — Fix the Declarations
- *
- * SIX of the lines below are broken. Find them, fix them,
- * and add a comment on each fixed line saying what was wrong.
- *
- * One of them compiles fine but is still a bad idea. Find that one too.
- */
+
 public class BadVariables {
     public static void main(String[] args) {
 
-        int 2ndPlace = 5;
+        int secondPlace = 5;    // variable identifier cant start with number 
 
-        double price = "9.99";
+        double price = 9.99;    //number cant be in quotes because it becomes  astring
 
-        boolean isReady = "true";
+        boolean isReady = true;     //boolean cant be in quotes 
 
-        char grade = "A";
+        char grade = 'A';
 
-        int class = 11;
+        int gradeLevel = 11;     // no mistake 
 
-        String Name = "Sarah";
+        String name = "Sarah";  //variables start with lowercase 
 
-        int student score = 95;
+        int studentScore = 95;      //has to have no space and second S captal
 
         System.out.println("If this runs, you fixed them all.");
     }

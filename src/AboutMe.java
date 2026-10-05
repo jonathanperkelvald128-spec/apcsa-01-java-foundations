@@ -14,7 +14,8 @@
 public class AboutMe {
     public static void main(String[] args) {
 
-        // Declare your variables here
+    final int BIRTH_YEAR = 2009 
+    string 
 
         // Print them with labels here
 
