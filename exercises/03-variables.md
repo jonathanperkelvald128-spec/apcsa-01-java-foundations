@@ -6,8 +6,8 @@ For each value, pick the best Java type and justify it in **one sentence.** The 
 
 | # | Value to store | Type | Why |
 |---|---|---|---|
-| 1 | A student's age | int |Because its a whole number |
-| 2 | The price of a coffee | double |prices includes decimals to the nearest hundreths |
+| 1 | Movie Name | String| Prisoners |
+| 2 | Movie Summary | String  |phe Frantic searcg for 2 |
 | 3 | Whether a student is enrolled |boolean |because its true or false |
 | 4 | A student's middle initial |char |because its a single character  |
 | 5 | A phone number | string|there are charcters besides just number |
@@ -39,9 +39,9 @@ Think about your project idea. What are the five most important pieces of inform
 
 | # | What it stores | Type | Example value | Why this type |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+| 1 | movie names| string| | prisoners|because its only words
+| 2 |movie summary | strings| When two young girls go missing on Thanksgiving, a desperate father takes matters into his own hands and tortures the prime suspect,| because its only words|
+| 3 |average rating  | double|9.25 |because its decimals |
 | 4 | | | | |
 | 5 | | | | |
 

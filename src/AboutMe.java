@@ -15,9 +15,12 @@ public class AboutMe {
     public static void main(String[] args) {
 
     final int BIRTH_YEAR = 2009 
-    string 
-
-        // Print them with labels here
+    String favoriteColor = "Blue";
+    int favoriteNumber = 7;
+    double heightInMeters = 1.75;
+    boolean isStudent = true;
+    char favoriteLetter = 'A';
+        
 
     }
 }
